@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="PhotoImageView">
+        <attr name="headphoto_text" format="string"/>
+        <attr name="headphoto_text_color" format="color"/>
+        <attr name="headphoto_text_bg" format="color"/>
+        <attr name="headphoto_bg_border" format="color"/>
+    </declare-styleable>
+</resources>
